@@ -5,5 +5,8 @@ Safarie is a simple AI designed by me for ACICTS Bits'21. 👾
 Please download both Python files and run it !
 
 # Let's contribute.
-If you like to contribute this project, Please make a folk and after you m
+If you like to contribute this project, Please make a folk and after you made changes, Open a pull request ! 💣
+
+# DON'T COPY & PASTE
+
 ***Source Code Protected 🚀***
