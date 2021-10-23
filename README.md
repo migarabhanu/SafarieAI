@@ -1,4 +1,4 @@
-# Safarie the Assistant with the Artificial Intelligence !
+# Safarie the Simple AI !
 Safarie is a simple AI designed by me for ACICTS Bits'21. 👾
 
 ### How to use ?
