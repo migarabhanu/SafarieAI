@@ -1,5 +1,5 @@
 # Safarie the Simple AI !
-Safarie is a simple AI designed by me for ACICTS Bits'21. 👾
+Safarie is a simple AI designed by @migarabhanu for ACICTS Bits'21. 👾
 
 ### How to run ?
 You can run this file online by using this link. -  https://replit.com/@growtel/SafarieAI-maxo
